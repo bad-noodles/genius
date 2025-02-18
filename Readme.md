@@ -7,6 +7,6 @@ The game will auto-start when you run it and restart if you make a mistake.
 
 You use the arrow keys to play it and Ctrl+C to quit it.
 
-## How it looks like
+## What it looks like
 
 ![Genius](genius.gif)
